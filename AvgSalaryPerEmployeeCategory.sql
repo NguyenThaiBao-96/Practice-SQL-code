@@ -12,7 +12,6 @@ WITH slr AS
 		(
 			SELECT
 				s.EmployeeId,
-				--s.Employee,
 				s.Yearly_Salary_Amount,
 				s.Yearly_Salary_Currency,
 				c.Average,
